@@ -1,0 +1,12 @@
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\bin\Debug\Kalkulator Tugas.exe.config
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\bin\Debug\Kalkulator Tugas.exe
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\bin\Debug\Kalkulator Tugas.pdb
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.csproj.AssemblyReference.cache
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.csproj.SuggestedBindingRedirects.cache
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator_Tugas.Calculator.resources
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator_Tugas.HslPerhitungan.resources
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator_Tugas.Properties.Resources.resources
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.csproj.GenerateResource.cache
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.csproj.CoreCompileInputs.cache
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.exe
+D:\file\code Visual Studio\21.11.4160\Kalkulator Tugas\Kalkulator Tugas\obj\Debug\Kalkulator Tugas.pdb
